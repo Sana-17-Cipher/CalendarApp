@@ -1,18 +1,28 @@
-## Getting Started
+# 📅 CalendarApp
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A **Java Swing** based Calendar application with **Notes feature**.  
+This project is designed to practice **Core Java concepts** like Swing (GUI), File Handling, and Java Date/Time API.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ✨ Features
+- 📆 **Monthly Calendar View** – Navigate between months
+- 📝 **Add Notes per Date** – Save & view notes for selected dates
+- 💾 **File Handling** – Notes stored locally as text files
+- ⏮️ ⏭️ **Month Navigation** – Previous / Next month support
+- 🎨 **Simple Swing UI** – Beginner-friendly design
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Tech Stack
+- **Language:** Java (Core Java 8+)
+- **GUI:** Swing
+- **File Handling:** Java I/O API
+- **Date/Time:** `java.time.LocalDate`, `Calendar`
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sana-17-Cipher/CalendarApp.git
